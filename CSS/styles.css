@@ -39,10 +39,10 @@
 }
 
 .me-avatar{
-    height: 90px;
-    width: 65px;
+    height: 100px;
+    width: 75px;
     float: left;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 10px;
 }
 
@@ -64,6 +64,8 @@ p{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     margin-bottom: 0;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 span{
@@ -97,7 +99,7 @@ body{
   }
 
 .profile{
-    margin: 25px auto 25px auto;
+    margin: 30px auto 30px auto;
 }
 
 .contact-me{
